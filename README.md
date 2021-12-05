@@ -1,5 +1,5 @@
 ### Hi there 👋
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="Eugene Shadura LinkedIn" height='30'>](https://www.linkedin.com/in/eugene-shadura-640b681b7/) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="Omari Sopromadze's Gmail">](mailto:evgeshashadura@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="Eugene Shadura LinkedIn" height='30'>](https://www.linkedin.com/in/eugene-shadura-640b681b7/) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="Eugene Shadura's Gmail">](mailto:evgeshashadura@gmail.com)
 
 Tech Stack:
 
