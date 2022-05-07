@@ -1,17 +1,23 @@
 ### Hi there 👋
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="Eugene Shadura LinkedIn" height='30'>](https://www.linkedin.com/in/eugene-shadura-640b681b7/) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="Eugene Shadura's Gmail">](mailto:evgeshashadura@gmail.com)
 
+less year of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack.
+
 Tech Stack:
 
-- Backend: Java11, 
+- Backend: Java (8, 11), Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, JavaScript
-- Database: MySql
-- Build tools: Maven, Gradle
+- Database: MySql, PostgreSQL, MongoDB
+- Build tools: Maven
 - Servers: Tomcat
 - Version Control: Git
 - IDE: Intellij IDEA, VS Code
 - Operating System: Linux, Windows
-- Project Management: ...
+- Project Management: Scrum
+
+Soft Skills:
+
+- Problem Solving, TeamWork, Communication
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
