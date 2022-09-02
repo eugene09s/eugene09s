@@ -22,8 +22,8 @@ Soft Skills:
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/Evgenij009">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Evgenij009&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenij009&layout=compact&langs_count=8&theme=algolia&hide=php,html"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eugene09s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene09s&layout=compact&langs_count=8&theme=algolia&hide=php,html"/>
 </a>
 </p>
 <h4 align="center">Visitor's count 👀</h4>
